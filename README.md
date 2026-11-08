@@ -26,5 +26,4 @@ This is my first C programming project. It is a menu-driven Student Management S
 ## Author
 Gautam Behera
 
-First-year B.Tech Student | Aspiring Cybersecurity Professional
-
+First-year B.Tech Student | artificial intelligence and data science
